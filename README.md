@@ -1,5 +1,8 @@
-# 🚀 Demo Chatbox AI (Flask + Gemini) 
-#sss
+# Đồ án môn: Các nền tảng phát triển phần mềm
+
+
+# 🚀 Demo Chatbox AI (Flask + Gemini)
+
 A modern AI chatbox built with:
 
 - 🔹 Flask backend
